@@ -1,0 +1,10 @@
+{
+    "name": "drawOUT5",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "drawOUT5.xml",
+    "author": "sharonmercedes",
+    "minimum_firmware_version": 42
+}
